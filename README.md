@@ -1,16 +1,24 @@
-## Hi there 👋
+# Salut, je suis Rouslan 👋
 
-<!--
-**rouslan077/rouslan077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur webapp (mobile/pc) basé en France.
 
-Here are some ideas to get you started:
+## 🚀 Projet en cours
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Coran** — application mobile de lecture et d'écoute du Coran
+en français et en russe.
+
+- Stack : React Native, Expo SDK 54, TypeScript
+- Fonctionnalités : lecture verset par verset, récitation audio
+  (Youssouf Leclerc / Mishary Alafasy), favoris, mode hors-ligne
+- Plateformes : Android (en cours de soumission Play Store), iOS
+
+## 🛠️ Stack technique
+
+- React Native, Expo, TypeScript
+- EAS Build, Play App Signing
+- AsyncStorage, Expo Audio, Expo File System
+
+## 📫 Contact
+
+- Email : oasisdelafoi@gmail.com
+- Soutenir : [ko-fi.com/qurandonation](https://ko-fi.com/qurandonation)
