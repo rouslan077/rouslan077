@@ -8,8 +8,6 @@ Développeur webapp (mobile/pc) basé en France.
 en français et en russe.
 
 - Stack : React Native, Expo SDK 54, TypeScript
-- Fonctionnalités : lecture verset par verset, récitation audio
-  (Youssouf Leclerc / Mishary Alafasy), favoris, mode hors-ligne
 - Plateformes : Android (en cours de soumission Play Store), iOS
 
 ## 🛠️ Stack technique
@@ -21,4 +19,3 @@ en français et en russe.
 ## 📫 Contact
 
 - Email : oasisdelafoi@gmail.com
-- Soutenir : [ko-fi.com/qurandonation](https://ko-fi.com/qurandonation)
